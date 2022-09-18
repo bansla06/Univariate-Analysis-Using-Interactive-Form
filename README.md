@@ -11,3 +11,9 @@ variable.
 - If you want to do Bivariate analysis, means comparing independent variable with the dependent variable how much time you will take to do that.
 
 What if i tell you we will do all these things in just one click. Just click the button you will get all your result just in one folder and do the analysis in comparatively lesser time.
+
+
+## How To use 
+
+1. Download package.py file 
+2. Download 
